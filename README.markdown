@@ -17,6 +17,10 @@ _Usage :_ Use checkbook in upper-right to toggle display of code and PEP recomme
 Installation :
 --------------
 
+    make install
+
+OR
+
     cd ~/Library/Application\ Support/TextMate/Bundles/
     git clone git://github.com/lxneng/python-pep8-tmbundle.git "Python PEP8.tmbundle"
     cd Python\ PEP8.tmbundle && git submodule init && git submodule update 
