@@ -1,0 +1,3 @@
+[submodule "Vendor/pep8"]
+	path = Vendor/pep8
+	url = git://github.com/jcrocholl/pep8.git
